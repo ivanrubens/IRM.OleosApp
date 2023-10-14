@@ -198,15 +198,15 @@
       "mscorlib.dll": "sha256-8OmdVHzoN7xteY5ehp0L8R17I9QxFkH2lUVHFuslE0s=",
       "netstandard.dll": "sha256-urq+e2ZQXxmOWMRxTR92529HnUVu6+kyVnfF6SoLad8=",
       "System.Private.CoreLib.dll": "sha256-ixnF\/wVKLHZM1N0lfJufpZ41EC2LvvyiSqdW43h3Xew=",
-      "IRM.OleosApp.Core.dll": "sha256-95YpHw1NA23IclWF9L25BZ1Y5L0B4vRszcjVdTdRBJs=",
-      "IRM.OleosApp.Web.dll": "sha256-70XpPqTjhbCFDlC9VPR2r5lgaN0u2N9YHpjeasEPr1o="
+      "IRM.OleosApp.Core.dll": "sha256-0qlsd\/RdZXN9nrqWxEE8IaibeOGHrhmNFW6B+cGhnUQ=",
+      "IRM.OleosApp.Web.dll": "sha256-nvKmq8Wql3QbZlGL2NJa00l2GveIgX+g4a0sLbnYfx0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "IRM.OleosApp.Core.pdb": "sha256-YcQQtlSgWsjEsoaA0dcI3ql+z4XMgL2jAAIlf8Fv4Eg=",
-      "IRM.OleosApp.Web.pdb": "sha256-urp7KrCJuQu26ju1dtnIxfTZ0jbpTwrMdacw\/tb73Ic="
+      "IRM.OleosApp.Core.pdb": "sha256-x2HXOZzifXPAujCP6zYnF9da\/bMVTAa50yiyxnI7rrM=",
+      "IRM.OleosApp.Web.pdb": "sha256-IkH2ni\/y53g9JbZDGnL2U9t5manf7zkEZIWrXT2DgzY="
     },
     "runtime": {
       "dotnet.7.0.12.103o9ixib6.js": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",
